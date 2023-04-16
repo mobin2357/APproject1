@@ -11,6 +11,9 @@ public class ProfileController {
     public static Response showInfo(){
         return null;
         //todo
+        //todo
+
+        //redo
     }
 
     public static Response changeUsername(Matcher matcher){
